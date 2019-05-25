@@ -2,10 +2,12 @@
   "name": "react-firebase-client-panel",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ogunsanmi.github.io/client-panel",
   "dependencies": {
     "classnames": "^2.2.6",
     "core-js": "^3.0.1",
     "firebase": "^6.0.2",
+    "gh-pages": "^2.0.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-redux": "^5.1.1",
@@ -17,6 +19,7 @@
     "redux-firestore": "^0.7.3"
   },
   "scripts": {
+    "deploy": "npm run build && gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
