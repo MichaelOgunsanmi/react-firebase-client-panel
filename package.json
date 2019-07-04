@@ -2,7 +2,7 @@
   "name": "react-firebase-client-panel",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ogunsanmi.github.io/client-panel",
+  "homepage": "https://ogunsanmi.github.io/react-firebase-client-panel",
   "dependencies": {
     "classnames": "^2.2.6",
     "core-js": "^3.0.1",
