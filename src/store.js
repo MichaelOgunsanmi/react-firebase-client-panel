@@ -10,13 +10,13 @@ import settingsReducer from "./reducers/settingsReducer";
 
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCX6Re2OcGaO5MjKKzrvwfo2V3kY5B4bLE",
-    authDomain: "react-based-client-panel.firebaseapp.com",
-    databaseURL: "https://react-based-client-panel.firebaseio.com",
-    projectId: "react-based-client-panel",
-    storageBucket: "react-based-client-panel.appspot.com",
-    messagingSenderId: "1097948652154",
-    appId: "1:1097948652154:web:2505fa4499413715"
+    apiKey: "AIzaSyDRsB03cPeNf_RQJYAAtr8RNt43MxnBByI",
+    authDomain: "reactfirebaseclientpanel.firebaseapp.com",
+    databaseURL: "https://reactfirebaseclientpanel.firebaseio.com",
+    projectId: "reactfirebaseclientpanel",
+    storageBucket: "reactfirebaseclientpanel.appspot.com",
+    messagingSenderId: "1021046031702",
+    appId: "1:1021046031702:web:c8c0b4892a49065a"
 }
 
 const rrfConfig = {

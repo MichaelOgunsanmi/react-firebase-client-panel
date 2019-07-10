@@ -49,6 +49,7 @@ class ClientDetails extends Component {
         const { disableBalanceOnEdit } = this.props.settings;
         const { showBalanceUpdate, balanceUpdateAmount } = this.state 
 
+
         let balanceForm = ''
 
         if (showBalanceUpdate) {
